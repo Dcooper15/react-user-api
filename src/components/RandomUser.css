@@ -1,0 +1,7 @@
+.user-card {
+    background-color: aquamarine;
+    height: 80px;
+    width: 150px;
+    border: solid 3px gold;
+    position: relative;
+}
